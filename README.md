@@ -1,9 +1,10 @@
 <h2 align='center'> 🙋🏻‍♂️ Hello I'm Théo LOPEZ🧑🏻‍💻</h2>
-Je suis passioné d'informatique et de cybersécurité ! 
 
+<br>
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Theyl44&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Théo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theyl44&layout=compact&theme=buefy&hide_border=true" /></a>|
 | ------------- | ------------- |
 
+Je suis passioné d'informatique et de cybersécurité. 
 
 <!--
 **Theyl44/Theyl44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
